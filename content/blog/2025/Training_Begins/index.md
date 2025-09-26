@@ -3,7 +3,7 @@ Title: "Forging Ahead: The T90 Series and Our Modernized Training Framework"
 author: "johnsp"
 # published: 2025-09-30 
 Summary: "We're excited to announce the start of the T90 network training series, powered by a completely rewritten JAX-based training script. This launch marks a significant step in our ongoing project to eliminate technical debt, following recent engine upgrades and paving the way for future improvements to our entire data collection and development ecosystem."
-draft:true
+draft: true
 ---
 
 ### Announcing the T90 Training Series
